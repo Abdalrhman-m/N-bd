@@ -9,6 +9,7 @@ var config = {
         "I wish you all the happiness, love, and joy that you deserve",
         "Thank you for being the incredible person you are",
         "and for making my life brighter just by being in it.",
+        "please keep smiling and be positive all the time :)",
         "you are the best teacher ,doctor and of course the best friend ever 💕💕",
         "lemme tell you a small secret 🙈❤️",
         "you are my favorite girl in my all multiverses ❤️🥺",

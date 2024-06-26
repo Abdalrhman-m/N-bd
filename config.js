@@ -4,17 +4,17 @@ var config = {
     texts: [
         "Happy Birthday, Nesreen ❤️🥺",     
         "From the moment we met, I knew you were someone special.",  
-        "Your kindness, strength, and unwavering support,",
-        "mean the world to me.",
+        "Your kindness, strength, and unwavering support, mean the world to me.",
         "On your special day",
         "I wish you all the happiness, love, and joy that you deserve",
         "Thank you for being the incredible person you are",
         "and for making my life brighter just by being in it.",
-        "you are the best teacher ,doctor and of course the best friend ever 💕",
-        "lemme tell you a samll secret 🙈",
-        "you are my favorite girl in my all multiverses❤️🥺",
+        "you are the best teacher ,doctor and of course the best friend ever 💕💕",
+        "lemme tell you a small secret 🙈❤️",
+        "you are my favorite girl in my all multiverses ❤️🥺",
+        "love you so much nasnosty 💞😂",
         "With all my love",
-        "COCO 🥺👉👈",
+        "COCO ❤️👉👈",
     ],
     
     /**
@@ -36,10 +36,10 @@ var config = {
         turn_on: "😊 دوسي هنا يا نسنوسه",           
         play: "😎🕺💃! نشغل مزيكا بقا و نحتفل",              // Button to play music
         bannar_coming: "يلا نعلق الزينة ؟",     // Button to change colors
-        balloons_flying: "Something's missing", // Button to release balloons
-        cake_fadein: "Cake?",       // Button to reveal the cake
-        light_candle: "Candles?",   // Button to light the candles
-        wish_message: "🦦بس كفاية هبل بقا و نركز", // Button to show birthday message
+        balloons_flying: "في حاجة ناقصة", // Button to release balloons
+        cake_fadein: "تورتة؟",       // Button to reveal the cake
+        light_candle: "يلا ولعي الشمع",   // Button to light the candles
+        wish_message: "🦦بس كفاية عبث بقا و نركز", // Button to show birthday message
         story: "A MESSAGE FOR YOU sweetie", // Button to show a special message
     }
 };

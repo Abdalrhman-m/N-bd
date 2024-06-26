@@ -4,13 +4,13 @@ var config = {
     texts: [
         "Happy Birthday, Nesreen ❤️🥺",     
         "From the moment we met, I knew you were someone special.",  
-        "Your kindness, strength, and unwavering support",
-        " mean the world to me.",
+        "Your kindness, strength, and unwavering support,",
+        "mean the world to me.",
         "On your special day",
         "I wish you all the happiness, love, and joy that you deserve",
         "Thank you for being the incredible person you are",
         "and for making my life brighter just by being in it.",
-        "you are the best teacher ,doctor and ofcourse the best friend ever 💕",
+        "you are the best teacher ,doctor and of course the best friend ever 💕",
         "lemme tell you a samll secret 🙈",
         "you are my favorite girl in my all multiverses❤️🥺",
         "With all my love",
@@ -39,7 +39,7 @@ var config = {
         balloons_flying: "Something's missing", // Button to release balloons
         cake_fadein: "Cake?",       // Button to reveal the cake
         light_candle: "Candles?",   // Button to light the candles
-        wish_message: "بس كفاية هبل بقا", // Button to show birthday message
-        story: "A MESSAGE FOR YOU sweety", // Button to show a special message
+        wish_message: "🦦بس كفاية هبل بقا و نركز", // Button to show birthday message
+        story: "A MESSAGE FOR YOU sweetie", // Button to show a special message
     }
 };
